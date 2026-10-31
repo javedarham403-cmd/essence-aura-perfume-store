@@ -1,31 +1,44 @@
 # Essence Aura - Luxury Perfume Store
 
-Essence Aura Luxury Perfume Website - Assignment 01
-First Semester BS Information Technology | Superior University
+**Project Title:** Essence Aura - Luxury Perfume Store (Assignment 01 Website Project)
+**Student:** Wania Javed | **University:** Superior University | **Course:** BS IT (1st Semester)
 
-## 📖 About The Project
-Essence Aura is a luxury perfume e-commerce website concept designed to provide a premium fragrance shopping experience. This project focuses on elegant UI/UX for high-end perfume brands.
+### Project Description
+Essence Aura is a luxury perfume e-commerce website concept designed to provide a premium fragrance shopping experience. This project was created as part of Assignment 01 to learn modern web development using AI tools and elegant UI/UX for high-end brands.
 
-## ✨ Features
+### Screenshots of Website
+Screenshots from my live website:
+- Homepage - Luxury Hero Section with Gold & Black Theme
+- Product Collection Page
+- Features Section
+Live Link: https://moment-maker-planning.lovable.app
+
+### Prompt Used
+"Create a luxury perfume e-commerce website named 'Essence Aura' with an elegant, premium, and modern design. Include hero section with luxury branding, perfume collection showcase, features section, and responsive layout for high-end fragrance store. Use gold and black luxury theme."
+
+### AI Tool Used
+- Lovable.dev (Moment Maker Planning) - For AI website generation
+- Meta AI / ChatGPT - For content and documentation
+
+### Features List
 - Luxury Brand Showcase
-- Premium Perfume Collection
+- Premium Perfume Collection Display
 - Elegant and Responsive Design
 - User-Friendly Product Browsing
-- Modern Aesthetics for Fragrance Store
+- Modern Aesthetics
 
-## 🛠️ Tech Stack
-- HTML5
-- CSS3
-- Git & GitHub for Version Control
+### Live Website Link
+https://moment-maker-planning.lovable.app
 
-## 🎯 Purpose
-This repository is created as part of Assignment 01 for learning GitHub repository creation, documentation, and version control fundamentals.
+### Learnings / Reflection
+What I created: Essence Aura luxury perfume website.
+What AI tool I used: Lovable AI.
+What I learned: How to create GitHub account, repository, README, use AI tools for fast development, and version control.
 
-## 👩‍💻 Author
-**Wania Javed**
-- BS Information Technology Student at Superior University
-- Learning Git & GitHub | Passionate about Coding and Technology
-- GitHub: @javedarham403-cmd
+### GitHub Repository Link
+https://github.com/javedarham403-cmd/essence-aura-perfume-store
 
----
-© 2025 Essence Aura | Created by Wania Javed
+### Author
+Wania Javed
+BS Information Technology Student at Superior University
+GitHub: @javedarham403-cmd
